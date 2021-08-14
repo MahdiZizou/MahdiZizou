@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MahdiZizou
+- 👋 Hi, I’m @MahdiZizou and here I share the joyness I get from programming.
 - 👀 I’m interested in machine learning and environmental engineering
 - 🌱 I’m currently learning pthon and application of machine learning in water resource management
 - 💞️ I’m looking to collaborate on application of machine learning in water resource management
